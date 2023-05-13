@@ -27,3 +27,28 @@ p {
   width: 50%;
   float: right;
 }
+.photo-jpeg {
+  margin-left: auto;
+  float: right;
+}
+.bike-jpeg {
+  display: block;
+}
+.my pic1-MOV {
+  display: block;
+}
+.header {
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: lightblue;
+}
+body {
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}

@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: white;
+}
+h1 {
+  background-color: red;
+  text-align: center;
+}
+h2 {
+  font-size: 48px;
+  background-color: pink;
+}
+p {
+  font-size: 30px;
+  background-color: white;
+}
+.img flower.webp {
+  font-size: 48px;
+}
+.img flower.webp {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  float: right;
+}
